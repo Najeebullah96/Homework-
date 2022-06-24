@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Blog</title>
+    <!-- We are assigned to make a website about ourselfs, so thats what the goal of this webpage would be -->
+    <style>
+      body {
+        margin: 10%;
+        font-family: system-ui, BlinkMacSystemFont, -apple-system, Segoe UI,
+          Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+          Helvetica Neue, sans-serif !important;
+        width: 50vw;
+      }
+      img {
+        align-content: center;
+        width: 100px;
+        border-radius: 50%;
+        display: inline;
+      }
+
+      ul {
+        width: 100vw;
+        padding-left: 0;
+      }
+      li,
+      a {
+        display: inline;
+        color: darkgray;
+        padding: 10px;
+        text-decoration: none;
+      }
+      ul li:hover {
+        color: black;
+      }
+      h1 {
+        font-size: 2em;
+        margin: 20px 0;
+      }
+      main {
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="webpage">
+      <head>
+        <img src="/Photos/My Pic.jpg" alt="" />
+        <h1>Najeebullah Mohammadi</h1>
+        <nav>
+          <ul>
+            <a href="#"><li>Home Page</li></a>
+            <a href="#"><li>My Bio</li></a>
+            <a href="#"><li>Acheivements</li></a>
+            <a href="#"><li>Contact Info</li></a>
+          </ul>
+        </nav>
+      </head>
+      <main>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Necessitatibus
+        sit recusandae tempore itaque quam quasi, sunt soluta cumque provident,
+        laborum commodi tempora iste ipsum quod? Aliquid, perferendis maxime
+        voluptas eaque molestias ratione autem magni nihil ducimus recusandae
+        quod nostrum pariatur enim aperiam, nulla odit. Officia a similique vero
+        ipsa sed sint ipsam eaque dignissimos ab commodi, mollitia velit maxime
+        cumque molestias debitis. Suscipit voluptatibus doloribus reprehenderit
+        id ducimus velit voluptas pariatur tempore ut voluptatum, optio rem
+        officiis possimus expedita provident perspiciatis eos aperiam
+        praesentium aspernatur perferendis obcaecati sit. Debitis architecto
+        ipsa ut magnam, impedit similique ipsam dolores quia nisi sapiente
+        quisquam. Impedit sit blanditiis ullam quasi debitis veniam, amet
+        reiciendis consectetur ipsam facere iure eligendi itaque, nam numquam,
+        quae porro! Praesentium necessitatibus maiores inventore, veniam tempora
+        eligendi quia animi aperiam ad sed delectus quo molestiae aspernatur
+        fuga temporibus accusamus ducimus quisquam, architecto dolor, autem nam
+        illo? Eligendi labore dignissimos ab hic dolorum quisquam non
+        laboriosam. Voluptatem excepturi alias voluptas voluptate exercitationem
+        minus ratione, perferendis rerum aspernatur laboriosam! Tenetur vitae
+        repellat nobis, alias molestias autem assumenda voluptates quidem harum
+        veniam ab similique soluta magni facere error in accusamus modi, magnam
+        voluptas quibusdam optio nesciunt animi. Aliquam nam dolor deleniti
+        dicta alias veritatis ratione similique atque rem, doloremque placeat
+        est, vitae qui cum repellendus! Sequi numquam sunt nulla sit
+        perspiciatis provident error in minima ad, doloribus itaque enim soluta
+        velit nemo laborum voluptate, beatae quis vel veritatis? Natus rerum
+        ratione blanditiis assumenda corrupti. Veniam quos laudantium a
+        inventore temporibus, reprehenderit nobis placeat deleniti officia, aut
+        ullam minima exercitationem laboriosam quasi ab aliquid tenetur alias
+        sequi aperiam incidunt maxime dolores deserunt sed possimus.
+        Voluptatibus non beatae obcaecati illo quaerat voluptas, ut officia,
+        soluta aliquid nesciunt, vitae eos quasi eligendi maxime praesentium
+        consequuntur quia tempore corrupti hic magni? Itaque totam optio
+        doloremque quasi ullam.
+      </main>
+    </div>
+  </body>
+</html>
